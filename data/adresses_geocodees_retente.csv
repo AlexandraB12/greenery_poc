@@ -1,0 +1,101 @@
+id,adresse,code_postal,commune,categorie,latitude,longitude
+1,Rue de Belleville,75020,Paris,Centre urbain dense,48.875681,2.4002394
+2,Avenue de Flandre,75019,Paris,Zone intermédiaire,48.8895314,2.3751858
+3,Rue des Rosiers,75004,Paris,Centre urbain dense,48.8577892,2.3581374
+4,Avenue de la Grande Armée,75116,Paris,Zone fortement artificialisée / commerciale,48.8769414,2.2850814
+5,Rue Mouffetard,75005,Paris,Centre urbain dense,48.8405883,2.3497077
+6,Avenue Jean Jaurès,75019,Paris,Zone intermédiaire,48.8827605,2.3703487
+7,Rue Oberkampf,75011,Paris,Centre urbain dense,48.8649641,2.374194
+8,Boulevard Haussmann,75009,Paris,Zone fortement artificialisée / commerciale,48.8731727,2.3315819
+9,Rue des Pyrénées,75020,Paris,Zone intermédiaire,48.8525797,2.4061237
+10,Quai de la Loire,75019,Paris,Quartier très végétalisé,48.8844604,2.3729935
+11,Rue de Paris,93100,Montreuil,Zone intermédiaire,48.8544907,2.4161968
+12,Avenue Gallieni,93170,Bagnolet,Zone fortement artificialisée / commerciale,48.8600205,2.4152195
+13,Rue Sadi Carnot,93500,Pantin,Zone intermédiaire,48.8971542,2.4016136
+14,Rue Hoche,93500,Pantin,Quartier très végétalisé,48.8934859,2.4018247
+15,Avenue Jean Lolive,93500,Pantin,Centre urbain dense,48.8917075,2.4057304
+16,Rue de la République,93200,Saint-Denis,Centre urbain dense,48.9366134,2.3536136
+17,Avenue du Président Wilson,93210,Saint-Denis,Zone fortement artificialisée / commerciale,48.9267705,2.3565723
+18,Rue du Landy,93210,Saint-Denis,Zone fortement artificialisée / commerciale,48.9145224,2.3477213
+19,Rue Edouard Vaillant,93100,Montreuil,Zone intermédiaire,48.8537234,2.4318106
+20,Rue Robespierre,93100,Montreuil,Quartier très végétalisé,48.8513304,2.4242969
+21,Avenue de Verdun,92120,Montrouge,Zone intermédiaire,48.8104744,2.3166649
+22,Rue Jean Bleuzen,92170,Vanves,Zone intermédiaire,48.8246042,2.299208
+23,Rue Marcelin Berthelot,92130,Issy-les-Moulineaux,Zone fortement artificialisée / commerciale,48.8226464,2.2722689
+24,Avenue Victor Cresson,92140,Clamart,Zone intermédiaire,,
+25,Rue du Général Leclerc,92130,Issy-les-Moulineaux,Centre urbain dense,48.8247474,2.2749799
+26,Avenue de la Division Leclerc,92310,Sèvres,Quartier très végétalisé,48.8250192,2.2199025
+27,Rue Paul Bert,92100,Boulogne-Billancourt,Centre urbain dense,48.8330207,2.2400571
+28,Quai Georges Gorse,92100,Boulogne-Billancourt,Zone fortement artificialisée / commerciale,48.8236742,2.2383252
+29,Rue Anatole France,92300,Levallois-Perret,Centre urbain dense,48.8883884,2.2883851
+30,Rue Louis Rouquier,92300,Levallois-Perret,Zone intermédiaire,48.8893894,2.2837485
+31,Avenue Henri Barbusse,94400,Vitry-sur-Seine,Zone intermédiaire,48.7930033,2.3945474
+32,Rue Gabriel Péri,94200,Ivry-sur-Seine,Centre urbain dense,48.8160723,2.3803519
+33,Quai d’Ivry,94200,Ivry-sur-Seine,Zone fortement artificialisée / commerciale,48.8241325,2.3878869
+34,Rue Jean Jaurès,94700,Maisons-Alfort,Zone intermédiaire,48.7936561,2.4343119
+35,Avenue Gambetta,94100,Saint-Maur-des-Fossés,Quartier très végétalisé,48.7948698,2.4949746
+36,Rue de Paris,94340,Joinville-le-Pont,Quartier très végétalisé,48.8185908,2.4657817
+37,Rue Roger Salengro,94500,Champigny-sur-Marne,Zone intermédiaire,,
+38,Avenue du Général de Gaulle,94000,Créteil,Zone fortement artificialisée / commerciale,48.7853578,2.4505944
+39,Rue du Bac,94130,Nogent-sur-Marne,Quartier très végétalisé,48.8240112,2.4178531
+40,Rue Charles Infroit,94230,Cachan,Zone intermédiaire,,
+41,Rue de la Gare,78370,Plaisir,Zone fortement artificialisée / commerciale,48.8297706,1.9425497
+42,Avenue de Saint-Germain,78600,Maisons-Laffitte,Quartier très végétalisé,48.9398562,2.137796
+43,Rue de la République,78360,Montesson,Zone intermédiaire,,
+44,Rue des Entrepreneurs,78500,Sartrouville,Zone fortement artificialisée / commerciale,,
+45,Rue Voltaire,78500,Sartrouville,Centre urbain dense,48.9387201,2.1709099
+46,Rue du Général Leclerc,78120,Rambouillet,Quartier très végétalisé,48.8207714,1.7551584
+47,Avenue Jean Jaurès,78190,Trappes,Zone intermédiaire,,
+48,Rue de Versailles,78150,Le Chesnay-Rocquencourt,Quartier très végétalisé,48.8170204,2.1279032
+49,Rue de Poissy,78100,Saint-Germain-en-Laye,Centre urbain dense,48.8992446,2.0886874
+50,Avenue du Maréchal Foch,78100,Saint-Germain-en-Laye,Zone fortement artificialisée / commerciale,48.9082393,2.0772595
+51,Rue de la République,91200,Athis-Mons,Centre urbain dense,,
+52,Avenue de la Cour de France,91260,Juvisy-sur-Orge,Zone intermédiaire,48.6887308,2.3710455
+53,Rue de Paris,91120,Palaiseau,Zone intermédiaire,48.715127,2.2460086
+54,Rue de l’Yvette,91190,Gif-sur-Yvette,Quartier très végétalisé,48.6984868,2.105065
+55,Avenue de l’Europe,91160,Longjumeau,Zone fortement artificialisée / commerciale,,
+56,Rue Henri Barbusse,91350,Grigny,Centre urbain dense,,
+57,Rue de la Gare,91700,Sainte-Geneviève-des-Bois,Zone intermédiaire,,
+58,Rue des Acacias,91430,Igny,Quartier très végétalisé,48.7289233,2.2268241
+59,Rue du Centre,91130,Ris-Orangis,Zone intermédiaire,48.6565372,2.4059084
+60,Avenue Paul Vaillant-Couturier,91100,Corbeil-Essonnes,Centre urbain dense,,
+61,Rue de Paris,77200,Torcy,Zone intermédiaire,48.8526324,2.6127039
+62,Avenue de la République,77170,Brie-Comte-Robert,Centre urbain dense,,
+63,Rue de la Gare,77300,Fontainebleau,Quartier très végétalisé,48.4165649,2.7244774
+64,Avenue Franklin Roosevelt,77290,Mitry-Mory,Zone fortement artificialisée / commerciale,48.9550643,2.5938439
+65,Rue Gambetta,77000,Melun,Centre urbain dense,48.6623643,2.5537983
+66,Rue des Sablons,77330,Ozoir-la-Ferrière,Quartier très végétalisé,,
+67,Rue Jean Jaurès,77176,Savigny-le-Temple,Zone intermédiaire,,
+68,Rue de la République,77240,Cesson,Zone intermédiaire,48.5226078,-2.7285175
+69,Rue du Général Leclerc,77420,Champs-sur-Marne,Quartier très végétalisé,,
+70,Avenue de la Gare,77400,Lagny-sur-Marne,Centre urbain dense,,
+71,Rue de Paris,95000,Cergy,Centre urbain dense,49.0432507,2.0376269
+72,Avenue de la Plaine,95500,Gonesse,Zone fortement artificialisée / commerciale,48.9763411,2.4992169
+73,Rue Aristide Briand,95100,Argenteuil,Zone intermédiaire,48.9987972,2.242514
+74,Rue Paul Vaillant-Couturier,95190,Goussainville,Centre urbain dense,,
+75,Avenue du Parisis,95150,Taverny,Quartier très végétalisé,,
+76,Rue de la République,95200,Sarcelles,Centre urbain dense,49.0015991,2.3847826
+77,Rue de l’Église,95240,Cormeilles-en-Parisis,Quartier très végétalisé,,
+78,Avenue Charles de Gaulle,95130,Franconville,Zone fortement artificialisée / commerciale,,
+79,Rue Jean Jaurès,95360,Montmagny,Zone intermédiaire,48.9772494,2.3627696
+80,Rue de Paris,95120,Ermont,Zone intermédiaire,,
+81,Rue Nationale,78955,Carrières-sous-Poissy,Zone intermédiaire,,
+82,Avenue de la République,78300,Poissy,Centre urbain dense,,
+83,Rue du Vieux Marché,78100,Saint-Germain-en-Laye,Centre urbain dense,48.8963999,2.0915008
+84,Rue des Prés,78420,Carrières-sur-Seine,Quartier très végétalisé,,
+85,Avenue Jean Moulin,78360,Montesson,Zone intermédiaire,48.9092175,2.1459444
+86,Rue de la Gare,78240,Chambourcy,Zone fortement artificialisée / commerciale,,
+87,Rue des Écoles,78510,Triel-sur-Seine,Quartier très végétalisé,,
+88,Rue de Paris,78560,Le Port-Marly,Zone intermédiaire,48.8840881,2.1085444
+89,Rue de la République,78990,Élancourt,Zone intermédiaire,,
+90,Avenue Paul Vaillant-Couturier,78190,Trappes,Centre urbain dense,48.7780035,2.0070205
+91,Rue de la Gare,94370,Sucy-en-Brie,Quartier très végétalisé,,
+92,Avenue Carnot,94140,Alfortville,Zone intermédiaire,,
+93,Rue du Général Leclerc,94000,Créteil,Zone fortement artificialisée / commerciale,48.7886901,2.4668498
+94,Rue Jean Jaurès,94110,Arcueil,Centre urbain dense,,
+95,Rue de Paris,94240,L’Haÿ-les-Roses,Zone intermédiaire,48.7342927,2.4468296
+96,Rue des Acacias,94520,Mandres-les-Roses,Quartier très végétalisé,,
+97,Avenue de la République,94400,Vitry-sur-Seine,Zone intermédiaire,48.8004494,2.399813
+98,Rue Victor Hugo,94270,Le Kremlin-Bicêtre,Centre urbain dense,,
+99,Rue du Bac,94170,Le Perreux-sur-Marne,Quartier très végétalisé,48.8437725,2.5087969
+100,Rue de Paris,94380,Bonneuil-sur-Marne,Zone intermédiaire,,

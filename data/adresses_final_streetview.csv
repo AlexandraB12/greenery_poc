@@ -1,0 +1,101 @@
+id,adresse,code_postal,commune,categorie,latitude,longitude,geocoding_source
+1,Rue de Belleville,75020,Paris,Centre urbain dense,48.8755171,2.3965926,nominatim_ok
+2,Avenue de Flandre,75019,Paris,Zone intermédiaire,48.892798,2.3793768,nominatim_ok
+3,Rue des Rosiers,75004,Paris,Centre urbain dense,48.8577892,2.3581374,nominatim_ok
+4,Avenue de la Grande Armée,75116,Paris,Zone fortement artificialisée / commerciale,48.8762274,2.2873342,nominatim_ok
+5,Rue Mouffetard,75005,Paris,Centre urbain dense,48.8399254,2.3497878,nominatim_ok
+6,Avenue Jean Jaurès,75019,Paris,Zone intermédiaire,48.815093,2.3486939,nominatim_ok
+7,Rue Oberkampf,75011,Paris,Centre urbain dense,48.8632005,2.3687155,nominatim_ok
+8,Boulevard Haussmann,75009,Paris,Zone fortement artificialisée / commerciale,48.8752465,2.3160704,nominatim_ok
+9,Rue des Pyrénées,75020,Paris,Zone intermédiaire,48.8525797,2.4061237,nominatim_ok
+10,Quai de la Loire,75019,Paris,Quartier très végétalisé,,,ambiguous
+11,Rue de Paris,93100,Montreuil,Zone intermédiaire,48.8284835,2.4028701,nominatim_ok
+12,Avenue Gallieni,93170,Bagnolet,Zone fortement artificialisée / commerciale,48.4812803,2.6952938,nominatim_ok
+13,Rue Sadi Carnot,93500,Pantin,Zone intermédiaire,48.8245651,2.2948262,nominatim_ok
+14,Rue Hoche,93500,Pantin,Quartier très végétalisé,48.87045,2.4145147,nominatim_ok
+15,Avenue Jean Lolive,93500,Pantin,Centre urbain dense,48.8932789,2.413709,nominatim_ok
+16,Rue de la République,93200,Saint-Denis,Centre urbain dense,,,ambiguous
+17,Avenue du Président Wilson,93210,Saint-Denis,Zone fortement artificialisée / commerciale,48.8648395,2.2969967,nominatim_ok
+18,Rue du Landy,93210,Saint-Denis,Zone fortement artificialisée / commerciale,48.9153591,2.351975,nominatim_ok
+19,Rue Edouard Vaillant,93100,Montreuil,Zone intermédiaire,,,ambiguous
+20,Rue Robespierre,93100,Montreuil,Quartier très végétalisé,,,ambiguous
+21,Avenue de Verdun,92120,Montrouge,Zone intermédiaire,48.818813,2.2439302,nominatim_ok
+22,Rue Jean Bleuzen,92170,Vanves,Zone intermédiaire,48.8240485,2.2980798,nominatim_ok
+23,Rue Marcelin Berthelot,92130,Issy-les-Moulineaux,Zone fortement artificialisée / commerciale,48.8278144,2.4026187,nominatim_ok
+24,"Avenue Jean Jaurès, 92140 Clamart, France",92140,Clamart,Zone intermédiaire,48.8126674,2.2713428,manual_fix
+25,Rue du Général Leclerc,92130,Issy-les-Moulineaux,Centre urbain dense,48.8236354,2.417747,nominatim_ok
+26,Avenue de la Division Leclerc,92310,Sèvres,Quartier très végétalisé,48.8006913,2.0754946,nominatim_ok
+27,Rue Paul Bert,92100,Boulogne-Billancourt,Centre urbain dense,48.8180671,2.3717988,nominatim_ok
+28,Quai Georges Gorse,92100,Boulogne-Billancourt,Zone fortement artificialisée / commerciale,48.8236742,2.2383252,nominatim_ok
+29,Rue Anatole France,92300,Levallois-Perret,Centre urbain dense,48.8425171,2.4318086,nominatim_ok
+30,Rue Louis Rouquier,92300,Levallois-Perret,Zone intermédiaire,48.8885858,2.2820887,nominatim_ok
+31,Avenue Henri Barbusse,94400,Vitry-sur-Seine,Zone intermédiaire,,,ambiguous
+32,Rue Gabriel Péri,94200,Ivry-sur-Seine,Centre urbain dense,,,ambiguous
+33,Quai d’Ivry,94200,Ivry-sur-Seine,Zone fortement artificialisée / commerciale,48.8268208,2.386452,nominatim_ok
+34,Rue Jean Jaurès,94700,Maisons-Alfort,Zone intermédiaire,48.8665981,2.4157346,nominatim_ok
+35,Avenue Gambetta,94100,Saint-Maur-des-Fossés,Quartier très végétalisé,48.8768599,2.4064448,nominatim_ok
+36,Rue de Paris,94340,Joinville-le-Pont,Quartier très végétalisé,48.8254952,2.407528,nominatim_ok
+37,Rue Roger Salengro,94500,Champigny-sur-Marne,Zone intermédiaire,48.8147755,2.3624367,nominatim_ok
+38,Avenue du Général de Gaulle,94000,Créteil,Zone fortement artificialisée / commerciale,,,ambiguous
+39,Rue du Bac,94130,Nogent-sur-Marne,Quartier très végétalisé,48.855187,2.3257952,nominatim_ok
+40,"Avenue Aristide Briand, 94230 Cachan, France",94230,Cachan,Zone intermédiaire,48.7995034,2.3232086,manual_fix
+41,Rue de la Gare,78370,Plaisir,Zone fortement artificialisée / commerciale,49.0228679,2.037893,nominatim_ok
+42,Avenue de Saint-Germain,78600,Maisons-Laffitte,Quartier très végétalisé,,,ambiguous
+43,Rue de la République,78360,Montesson,Zone intermédiaire,,,ambiguous
+44,"Avenue Maurice Berteaux, 78500 Sartrouville, France",78500,Sartrouville,Zone fortement artificialisée / commerciale,48.9355097,2.1760668,manual_fix
+45,Rue Voltaire,78500,Sartrouville,Centre urbain dense,,,ambiguous
+46,Rue du Général Leclerc,78120,Rambouillet,Quartier très végétalisé,48.8236354,2.417747,nominatim_ok
+47,Avenue Jean Jaurès,78190,Trappes,Zone intermédiaire,48.8830148,2.3712149,nominatim_ok
+48,Rue de Versailles,78150,Le Chesnay-Rocquencourt,Quartier très végétalisé,,,ambiguous
+49,Rue de Poissy,78100,Saint-Germain-en-Laye,Centre urbain dense,48.8488777,2.3523756,nominatim_ok
+50,Avenue du Maréchal Foch,78100,Saint-Germain-en-Laye,Zone fortement artificialisée / commerciale,,,ambiguous
+51,Rue de la République,91200,Athis-Mons,Centre urbain dense,,,ambiguous
+52,Avenue de la Cour de France,91260,Juvisy-sur-Orge,Zone intermédiaire,48.6887308,2.3710455,nominatim_ok
+53,Rue de Paris,91120,Palaiseau,Zone intermédiaire,48.8254952,2.407528,nominatim_ok
+54,Rue de l’Yvette,91190,Gif-sur-Yvette,Quartier très végétalisé,48.8532762,2.266696,nominatim_ok
+55,"Avenue du Général de Gaulle, 91160 Longjumeau, France",91160,Longjumeau,Zone fortement artificialisée / commerciale,48.6985295,2.2991473,manual_fix
+56,Rue Henri Barbusse,91350,Grigny,Centre urbain dense,48.8414786,2.339004,nominatim_ok
+57,Rue de la Gare,91700,Sainte-Geneviève-des-Bois,Zone intermédiaire,49.0228679,2.037893,nominatim_ok
+58,Rue des Acacias,91430,Igny,Quartier très végétalisé,48.8769407,2.2918038,nominatim_ok
+59,Rue du Centre,91130,Ris-Orangis,Zone intermédiaire,,,ambiguous
+60,"Rue Saint-Spire, 91100 Corbeil-Essonnes, France",91100,Corbeil-Essonnes,Centre urbain dense,48.6075206,2.4840851,manual_fix
+61,Rue de Paris,77200,Torcy,Zone intermédiaire,48.8254952,2.407528,nominatim_ok
+62,Avenue de la République,77170,Brie-Comte-Robert,Centre urbain dense,48.8631861,2.414635,nominatim_ok
+63,Rue de la Gare,77300,Fontainebleau,Quartier très végétalisé,49.0228679,2.037893,nominatim_ok
+64,Avenue Franklin Roosevelt,77290,Mitry-Mory,Zone fortement artificialisée / commerciale,48.8437539,2.43254,nominatim_ok
+65,Rue Gambetta,77000,Melun,Centre urbain dense,,,ambiguous
+66,Rue des Sablons,77330,Ozoir-la-Ferrière,Quartier très végétalisé,48.8662352,2.2838398,nominatim_ok
+67,Rue Jean Jaurès,77176,Savigny-le-Temple,Zone intermédiaire,48.8665981,2.4157346,nominatim_ok
+68,"Avenue Charles Monier, 77240 Cesson, France",77240,Cesson,Zone intermédiaire,48.5627922,2.6064491,manual_fix
+69,Rue du Général Leclerc,77420,Champs-sur-Marne,Quartier très végétalisé,48.8236354,2.417747,nominatim_ok
+70,"Rue Gambetta, 77400 Lagny-sur-Marne, France",77400,Lagny-sur-Marne,Centre urbain dense,48.8783781,2.7037719,manual_fix
+71,Rue de Paris,95000,Cergy,Centre urbain dense,48.8254952,2.407528,nominatim_ok
+72,Avenue de la Plaine,95500,Gonesse,Zone fortement artificialisée / commerciale,,,ambiguous
+73,Rue Aristide Briand,95100,Argenteuil,Zone intermédiaire,,,ambiguous
+74,Rue Paul Vaillant-Couturier,95190,Goussainville,Centre urbain dense,48.8675809,2.4169541,nominatim_ok
+75,Avenue du Parisis,95150,Taverny,Quartier très végétalisé,,,ambiguous
+76,Rue de la République,95200,Sarcelles,Centre urbain dense,,,ambiguous
+77,"Rue des Champs Guillaume, 95240 Cormeilles-en-Parisis, France",95240,Cormeilles-en-Parisis,Quartier très végétalisé,48.9621932,2.1966939,manual_fix
+78,"Boulevard Maurice Berteaux, 95130 Franconville, France",95130,Franconville,Zone fortement artificialisée / commerciale,48.9881713,2.2300188,manual_fix
+79,Rue Jean Jaurès,95360,Montmagny,Zone intermédiaire,48.8665981,2.4157346,nominatim_ok
+80,Rue de Paris,95120,Ermont,Zone intermédiaire,,,ambiguous
+81,"Rue Claude Monet, 78955 Carrières-sous-Poissy, France",78955,Carrières-sous-Poissy,Zone intermédiaire,48.9484674,2.0361558,manual_fix
+82,Avenue de la République,78300,Poissy,Centre urbain dense,48.8631861,2.414635,nominatim_ok
+83,Rue du Vieux Marché,78100,Saint-Germain-en-Laye,Centre urbain dense,,,ambiguous
+84,Rue des Prés,78420,Carrières-sur-Seine,Quartier très végétalisé,,,ambiguous
+85,Avenue Jean Moulin,78360,Montesson,Zone intermédiaire,48.8273889,2.3257569,nominatim_ok
+86,"Route de Mantes, 78240 Chambourcy, France",78240,Chambourcy,Zone fortement artificialisée / commerciale,48.9057292,2.050098,manual_fix
+87,"Rue Paul Doumer, 78510 Triel-sur-Seine, France",78510,Triel-sur-Seine,Quartier très végétalisé,48.9808623,2.0033841,manual_fix
+88,Rue de Paris,78560,Le Port-Marly,Zone intermédiaire,48.8254952,2.407528,nominatim_ok
+89,"Avenue de la Villedieu, 78990 Élancourt, France",78990,Élancourt,Zone intermédiaire,48.7732863,1.9755548,manual_fix
+90,Avenue Paul Vaillant-Couturier,78190,Trappes,Centre urbain dense,48.8162776,2.3419917,nominatim_ok
+91,Rue de la Gare,94370,Sucy-en-Brie,Quartier très végétalisé,49.0228679,2.037893,nominatim_ok
+92,Avenue Carnot,94140,Alfortville,Zone intermédiaire,48.8766785,2.292494,nominatim_ok
+93,Rue du Général Leclerc,94000,Créteil,Zone fortement artificialisée / commerciale,48.8236354,2.417747,nominatim_ok
+94,Rue Jean Jaurès,94110,Arcueil,Centre urbain dense,48.8665981,2.4157346,nominatim_ok
+95,Rue de Paris,94240,L’Haÿ-les-Roses,Zone intermédiaire,48.8254952,2.407528,nominatim_ok
+96,"Rue du Général Leclerc, 94520 Mandres-les-Roses, France",94520,Mandres-les-Roses,Quartier très végétalisé,48.7012069,2.5421309,manual_fix
+97,Avenue de la République,94400,Vitry-sur-Seine,Zone intermédiaire,48.8631861,2.414635,nominatim_ok
+98,"Avenue de Fontainebleau, 94270 Le Kremlin-Bicêtre, France",94270,Le Kremlin-Bicêtre,Centre urbain dense,48.8157612,2.3604015,manual_fix
+99,Rue du Bac,94170,Le Perreux-sur-Marne,Quartier très végétalisé,48.855187,2.3257952,nominatim_ok
+100,"Avenue du Bicentenaire, 94380 Bonneuil-sur-Marne, France",94380,Bonneuil-sur-Marne,Zone intermédiaire,48.7660608,2.4894731,manual_fix
