@@ -24,7 +24,9 @@ import time
 CSV_PATH = "adresses_final_streetview.csv"
 
 # Clé API Google Street View (mettre ta clé ici)
-API_KEY = "AIzaSyCoRaMhyA_ox-l8k2IMLgeaCzehIZ8mtD0"
+API_KEY = os.environ.get("GOOGLE_MAPS_API_KEY")
+if not API_KEY:
+    raise RuntimeError("Missing GOOGLE_MAPS_API_KEY env var")
 
 # Dossier où les images seront sauvegardées
 OUTPUT_DIR = "streetview_images"
